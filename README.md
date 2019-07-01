@@ -1,1 +1,3 @@
-This is my Gatsby starter, just for learning purposes.
+This is my Gatsby starter. 
+
+This is just for learning purposes.
